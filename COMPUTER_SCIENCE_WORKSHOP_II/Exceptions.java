@@ -126,7 +126,8 @@ public class Exceptions {
 //		}
 
 //		topic();
-
+System.out.println(Runtime.getRuntime().totalMemory());
+System.out.println(Runtime.getRuntime().freeMemory());
 	}
 
 }

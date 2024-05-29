@@ -59,6 +59,11 @@ public class Student implements Comparable<Student> {
 		list.add(new Student(3, "abc", 99));
 		Student k = new Student(1, "danish", 82);
 		search(list, k);
+//		ArrayList<Student> list=new ArrayList <>();
+//		list.add(new Student( a:1, b:"danish", c:82));
+//		list.add(new Student(a:2,b:"xyz", c:44));
+//		list.add(new Student(a:3, b:"abc", c:99));
+//		Student k= new Student(a:1, b:"danish",c:82);
 	}
 
 }
